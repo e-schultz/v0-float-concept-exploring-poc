@@ -1,29 +1,5 @@
-# Mobile concept explorer
- 
- *Automatically synced with your [v0.dev](https://v0.dev) deployments*
- 
- [![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/evan-schultzs-projects/v0-mobile-concept-explorer)
- [![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/QahBVaFF6kJ)
- 
- ## Overview
- 
- This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
- Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
- 
- ## Deployment
- 
- Your project is live at:
- 
- **[https://vercel.com/evan-schultzs-projects/v0-mobile-concept-explorer](https://vercel.com/evan-schultzs-projects/v0-mobile-concept-explorer)**
- 
- ## Build your app
- 
- Continue building your app on:
- 
- **[https://v0.dev/chat/projects/QahBVaFF6kJ](https://v0.dev/chat/projects/QahBVaFF6kJ)**
-
 # FLOAT Concept Explorer
-- https://v0-mobile-concept-explorer.vercel.app/ 
+
 ## Introduction
 
 FLOAT Concept Explorer is a mobile-friendly web application built with Next.js that provides an interactive platform for exploring the concepts, philosophies, and methodologies of the FLOAT system. This application serves as both an educational resource and a practical demonstration of how complex, interconnected ideas can be presented in an accessible digital format.
